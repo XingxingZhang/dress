@@ -72,3 +72,5 @@ After you obtain the alignments, you can train a lexical simplification model us
 Lastly, you can apply the lexical simplification model with DRESS `experiments/wikilarge/dress/generate/dress-ls/run_std.sh`.
 
 # Pre-trained Models
+https://drive.google.com/open?id=0B6-YKFW-MnbOTVRMSURFbXYxNjg
+
