@@ -1,5 +1,5 @@
 # Sentence Simplification with Deep Reinforcement Learning
-This is an implmentation of the DRESS (**D**eep **RE**inforcement **S**entence **S**implification) model described in [Sentence Simplification with Deep Reinforcement Learning](https://arxiv.org/abs/1703.10931)
+This is an implmentation of the DRESS (**D**eep **RE**inforcement **S**entence **S**implification) model described in [Sentence Simplification with Deep Reinforcement Learning](https://homepages.inf.ed.ac.uk/s1270921/res/papers/emnlp2017.pdf)
 
 
 # Datasets
