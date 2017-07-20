@@ -3,10 +3,9 @@ This is an implmentation of the DRESS (**D**eep **RE**inforcement **S**entence *
 
 
 # Datasets
-The *newsela*, *wikismall* and *wikilarge* datasets can be downloaded [here](https://drive.google.com/open?id=0B6-YKFW-MnbOWHlSLXRqUTZlWms)
+The *wikismall* and *wikilarge* datasets can be downloaded [here](https://drive.google.com/open?id=0B6-YKFW-MnbOYWxUMTBEZ1FBam8)
 
-Copyright of the *newsela* dataset belongs to https://newsela.com.
-Therefore, the *newsela* dataset is anonymized (words are replaced with random numbers). If you have any question about the datasets, feel free to contact us.
+Copyright of the *newsela* dataset belongs to https://newsela.com. Please contact newsela.com to obtain the *newsela* dataset https://newsela.com/data/
 
 # Dependencies
 * [CUDA 7.5](http://www.nvidia.com/object/cuda_home_new.html)
