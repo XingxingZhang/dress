@@ -76,3 +76,19 @@ Lastly, you can apply the lexical simplification model with DRESS `experiments/w
 # Pre-trained Models
 https://drive.google.com/open?id=0B6-YKFW-MnbOTVRMSURFbXYxNjg
 
+# Citation
+```
+@InProceedings{D17-1063,
+  author = 	"Zhang, Xingxing
+		and Lapata, Mirella",
+  title = 	"Sentence Simplification with Deep Reinforcement Learning",
+  booktitle = 	"Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing",
+  year = 	"2017",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"595--605",
+  location = 	"Copenhagen, Denmark",
+  url = 	"http://aclweb.org/anthology/D17-1063"
+}
+```
+
+
