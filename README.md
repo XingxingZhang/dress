@@ -61,6 +61,7 @@ Details see `experiments/wikilarge/encdeca/generate/run_std.sh`.
 See details in `experiments/wikilarge/dress/train_lm.sh`
 
 ## Step 3: Train a Sequence Auto-Encoder for the Relevance Reward
+Create dataset `scripts/get_auto_encoder_data/gen_data.sh`
 See details in `experiments/wikilarge/dress/train_auto_encoder.sh`
 
 ## Step 4: Train a Reinforcement Learning Model
