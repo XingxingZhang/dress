@@ -77,6 +77,19 @@ Lastly, you can apply the lexical simplification model with DRESS `experiments/w
 # Pre-trained Models
 https://drive.google.com/open?id=0B6-YKFW-MnbOTVRMSURFbXYxNjg
 
+# Evaluation
+Please be careful about the automatic evaluation. <br>
+You can use our released code and models to produce output for different models (i.e., EncDecA, Dress and Dress-Ls). But please make sure your evaluation settings follow the settings in our paper.
+
+## BLEU
+The evaluation pipeline accompanied in our code released produces single reference BLEU scores. Therefore, to get the numbers on wikilarge, you should use scrips that support multi-bleu evalution (e.g., [joshua](https://github.com/cocoxu/simplification/#the-text-simplificaiton-system) or mtevalv13a.pl).
+
+## FKGL
+Make sure your FKGL is on corpus level.
+
+## SARI
+The evaluation pipeline accompanied in our code released produces sentence-level SARI scores. You can use this simplification system (available [here](https://github.com/cocoxu/simplification/#the-text-simplificaiton-system)) to produce corpus level SARI scores.
+
 # Citation
 ```
 @InProceedings{D17-1063,
