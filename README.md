@@ -94,11 +94,16 @@ To be consistant with previous work, you should use 8 references wikilarge test 
 
 Therefore, to get the numbers on wikilarge, you should use scripts that support multi-bleu evalution (e.g., [joshua](https://github.com/cocoxu/simplification/#the-text-simplificaiton-system) or mtevalv13a.pl).
 
+Checkout details for BLEU evaluation of wikilarge [here](https://github.com/XingxingZhang/dress/tree/master/experiments/evaluation/BLEU)
+
 ## FKGL
 Make sure your FKGL is on corpus level.
 
 ## SARI
 The evaluation pipeline accompanied in our code released produces sentence-level SARI scores. You can use this simplification system (available [here](https://github.com/cocoxu/simplification/#the-text-simplificaiton-system)) to produce corpus level SARI scores.
+
+Checkout details for SARI evaluation [here](https://github.com/XingxingZhang/dress/tree/master/experiments/evaluation/SARI)
+
 
 # Citation
 ```
