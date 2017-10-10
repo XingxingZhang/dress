@@ -14,7 +14,7 @@ git clone https://github.com/cocoxu/simplification
 cp ../../../all-system-output/WikiLarge/test/EncDecA .
 python tolower.py EncDecA EncDecA.lower
 ```
-Note that you can also run this script to get the sys output of EncDecA ``https://github.com/XingxingZhang/dress/blob/better-eval/experiments/wikilarge/encdeca/generate/run_std.sh``
+Note that you can also run this script to get the sys output of EncDecA ``experiments/wikilarge/encdeca/generate/run_std.sh``
 <br>
 
 4. Evaluate BLEU
