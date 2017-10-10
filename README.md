@@ -82,7 +82,12 @@ Please be careful about the automatic evaluation. <br>
 You can use our released code and models to produce output for different models (i.e., EncDecA, Dress and Dress-Ls). But please make sure your evaluation settings follow the settings in our paper.
 
 ## BLEU
-The evaluation pipeline accompanied in our code released produces single reference BLEU scores. Therefore, to get the numbers on wikilarge, you should use scripts that support multi-bleu evalution (e.g., [joshua](https://github.com/cocoxu/simplification/#the-text-simplificaiton-system) or mtevalv13a.pl).
+The evaluation pipeline accompanied in our code released produces single reference BLEU scores. 
+
+### WikiLarge
+To be consistant with previous work, you should use 8 references wikilarge test set (availabel at https://github.com/cocoxu/simplification/tree/master/data/turkcorpus)
+
+Therefore, to get the numbers on wikilarge, you should use scripts that support multi-bleu evalution (e.g., [joshua](https://github.com/cocoxu/simplification/#the-text-simplificaiton-system) or mtevalv13a.pl).
 
 ## FKGL
 Make sure your FKGL is on corpus level.
