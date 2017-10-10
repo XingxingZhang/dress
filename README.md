@@ -9,6 +9,9 @@ The *wikismall* and *wikilarge* datasets can be downloaded [here](https://drive.
 
 Copyright of the *newsela* dataset belongs to https://newsela.com. Please contact newsela.com to obtain the dataset https://newsela.com/data/
 
+# System Output
+If you are looking for system output and don't bother to install dependencies and train a model (or run a pre-trained model), the ``all-system-output`` folder is for you.
+
 # Dependencies
 * [CUDA 7.5](http://www.nvidia.com/object/cuda_home_new.html)
 * [Torch](https://github.com/torch)
