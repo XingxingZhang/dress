@@ -5,7 +5,7 @@
 unzip ppdb-simplification-release-joshua5.0.zip
 cp star star_1 ppdb-simplification-release-joshua5.0/joshua/bin
 ```
-3. set JAVA_HOME and JOSHUA environment.
+3. set JAVA_HOME and JOSHUA environments.
 ```
 export JAVA_HOME=/usr/lib/jvm/java-1.8.0
 export JOSHUA=/disk/scratch/Software/joshua_5/ppdb-simplification-release-joshua5.0/joshua
