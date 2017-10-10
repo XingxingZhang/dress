@@ -5,6 +5,8 @@ This is an implmentation of the DRESS (**D**eep **RE**inforcement **S**entence *
 # Datasets
 The *wikismall* and *wikilarge* datasets can be downloaded [here](https://drive.google.com/open?id=0B6-YKFW-MnbOYWxUMTBEZ1FBam8)
 
+8 references wikilarge test set can be downloaded here https://github.com/cocoxu/simplification/tree/master/data/turkcorpus
+
 Copyright of the *newsela* dataset belongs to https://newsela.com. Please contact newsela.com to obtain the dataset https://newsela.com/data/
 
 # Dependencies
@@ -84,7 +86,7 @@ You can use our released code and models to produce output for different models 
 ## BLEU
 The evaluation pipeline accompanied in our code released produces single reference BLEU scores. 
 
-### WikiLarge
+#### WikiLarge
 To be consistant with previous work, you should use 8 references wikilarge test set (availabel at https://github.com/cocoxu/simplification/tree/master/data/turkcorpus)
 
 Therefore, to get the numbers on wikilarge, you should use scripts that support multi-bleu evalution (e.g., [joshua](https://github.com/cocoxu/simplification/#the-text-simplificaiton-system) or mtevalv13a.pl).
