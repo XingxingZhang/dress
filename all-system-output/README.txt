@@ -1,6 +1,4 @@
 
-Supplementary Material for "Text Simplification with Deep Reinforcement Learning"
-
 This folder includes the system output of our models (i.e. EncDecA, EncDecA-RF, EncDecA-RF-LS) 
 and other models in comparision (i.e. PBMT-R, Hybrid, SBMT-SARI).
 
