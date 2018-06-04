@@ -3,7 +3,7 @@ This is an implmentation of the DRESS (**D**eep **RE**inforcement **S**entence *
 
 
 # Datasets
-The *wikismall* and *wikilarge* datasets can be downloaded [here](https://drive.google.com/open?id=0B6-YKFW-MnbOYWxUMTBEZ1FBam8)
+The *wikismall* and *wikilarge* datasets can be downloaded on [Github](https://github.com/louismartin/dress-data/raw/master/data-simplification.tar.bz2) or on [Google Drive](https://drive.google.com/open?id=0B6-YKFW-MnbOYWxUMTBEZ1FBam8).
 
 8 references *wikilarge* test set can be downloaded here https://github.com/cocoxu/simplification/tree/master/data/turkcorpus
 
