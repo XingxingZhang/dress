@@ -12,6 +12,8 @@ Copyright of the *newsela* dataset belongs to https://newsela.com. Please contac
 # System Output
 If you are looking for system output and don't bother to install dependencies and train a model (or run a pre-trained model), the ``all-system-output`` folder is for you.
 
+Additional system outputs can be found in the [EASSE text simplification library](https://github.com/feralvam/easse/tree/master/easse/resources/data/system_outputs). 
+
 # Dependencies
 * [CUDA 7.5](http://www.nvidia.com/object/cuda_home_new.html)
 * [Torch](https://github.com/torch)
